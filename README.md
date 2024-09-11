@@ -7,8 +7,6 @@ Welcome to NexData Solutions! We specialize in providing cutting-edge machine le
 - [Services](#services)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
